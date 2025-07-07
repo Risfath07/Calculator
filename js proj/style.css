@@ -1,0 +1,22 @@
+.calc{
+    width: 350px;
+    height: 500px;
+    background: grey;
+    margin-left: 400px;
+}
+#screen{
+    width: 80%;
+    height: 44px;
+    margin-left: 36px;
+    
+    margin-top: 30px;
+    /* click chyumbo edit chyandirikan vndi use chyunnatha pointer */
+    pointer-events: none;
+}
+.btn{
+    width: 60px;
+    height: 45px;
+    margin-left: 20px;
+    margin-top: 30px;
+    background: bisque;
+}
